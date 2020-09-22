@@ -9,6 +9,8 @@ plugins {
     id 'org.jetbrains.kotlin.multiplatform' version '1.3.72'
 }
 
+apply plugin: 'maven'
+
 group 'org.example'
 version '1.0-SNAPSHOT'
 
